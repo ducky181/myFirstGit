@@ -1,0 +1,19 @@
+{
+  "name": "myfirstgit",
+  "version": "1.0.0",
+  "description": "My first Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ducky181/myFirstGit.git"
+  },
+  "author": "Matthew Enright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ducky181/myFirstGit/issues"
+  },
+  "homepage": "https://github.com/ducky181/myFirstGit#readme"
+}
